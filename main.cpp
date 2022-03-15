@@ -42,7 +42,7 @@ Date:
 
 int main()
 {
-	while (1) {
+	while (true) {
 		//[INSERT] Ask the user when is ready to take a sample of the position at given (static) height
         //[INSERT] Offer the option to quit the program
 		//[INSERT] Read the IR sensor and the encoder 10 times (time-spaced by 0.05 seconds -> you can use wait(0.05) between samples)
